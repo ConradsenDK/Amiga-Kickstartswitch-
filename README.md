@@ -7,5 +7,5 @@ It uses a eprom 27C800  (2x512Kb)
 pinheader and a switch plus wire.
 
 remember:
-Pin1 does NOT go into the board
-so leave a hole unused where it says 1 on top PCB
+Pin1 does NOT go into the board. only the eprom uses one of the PIN1 
+So leave a hole unused where it says 1 on top PCB
