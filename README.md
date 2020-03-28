@@ -2,5 +2,4 @@
 Amiga Kickstartswitch for Amiga 500, 600 and 2000 
 
 
-
-test
+It uses a eprom 27C800  (2x512Kb)
